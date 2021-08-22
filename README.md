@@ -2,6 +2,8 @@
 
 Android Image Handling
 
-This is the SLIIT Image handling tute.
+This is the Image handling tute.
 
 Self study
+
+# SLIIT
